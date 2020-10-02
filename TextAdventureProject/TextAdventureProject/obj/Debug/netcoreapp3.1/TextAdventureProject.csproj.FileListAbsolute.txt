@@ -1,0 +1,12 @@
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/bin/Debug/netcoreapp3.1/TextAdventureProject.deps.json
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/bin/Debug/netcoreapp3.1/TextAdventureProject.runtimeconfig.json
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/bin/Debug/netcoreapp3.1/TextAdventureProject.runtimeconfig.dev.json
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/bin/Debug/netcoreapp3.1/TextAdventureProject.dll
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/bin/Debug/netcoreapp3.1/TextAdventureProject.pdb
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.csprojAssemblyReference.cache
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.AssemblyInfoInputs.cache
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.AssemblyInfo.cs
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.csproj.CoreCompileInputs.cache
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.dll
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.pdb
+/Users/cristianfarias/Desktop/Repos/TextAdventureProject/TextAdventureProject/obj/Debug/netcoreapp3.1/TextAdventureProject.genruntimeconfig.cache
